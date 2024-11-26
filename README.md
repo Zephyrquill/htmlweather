@@ -1,4 +1,4 @@
-### **Description**
+### **.htmlWeather**
 
 It is a simple and low Python knowledge project that describes the instant weather code structure and sample structure that gives files in html format. It has a messy structure because it is the first ‘useful’ project I made with Python, but it works. All of the examples are in Turkish because I live in Turkey. When you do not translate the code, you will see results in English, which is the default language.
 
