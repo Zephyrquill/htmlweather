@@ -28,6 +28,9 @@ The API called Weather API is used as the API. OpenWeather allows 1000 calls per
 ![Screenshot_2](https://github.com/user-attachments/assets/c8056703-540e-41b4-a248-43b7e5fa9c2b)
 ![Screenshot_3](https://github.com/user-attachments/assets/e5eba61c-0552-4fa6-8c14-cb37d3160cbd)
 
+### **All versions**
+
+0.9 Last Test https://github.com/Zephyrquill/htmlweather/releases/tag/Beta
 
 ### **Warnings**
 
