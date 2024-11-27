@@ -16,7 +16,9 @@ The API called Weather API is used as the API. OpenWeather allows 1000 calls per
 ### **Features**
 
 - You can see instant data of any city in the world. Since these data are collected with the device closest to the coordinate you specify, you get the best data. (At least this is claimed to be the case for the most data collection and when I made comparisons, it always gave correct results).
+
 - As many coordinates as desired can be added. Since this feature is supported both in the API and in the code, there is no incompatibility BUT increasing the number of coordinates delays the generation of the .html file.
+
 - It works with a code consisting of a simple and single file. Normally the content is in different files, but it is a single file because it is not a complex system.
 - It is possible to improve. Although it is accurate and has extra features, it is suitable for automation system. It is also simple to develop visually. 
 - Free of charge. The API meets 1000 calls per day free of charge and never reaches 1000 usage due to its purpose.
@@ -37,4 +39,5 @@ The API called Weather API is used as the API. OpenWeather allows 1000 calls per
 - Using the OpenWeather API brings some responsibilities. You need to pay attention to these. You need to pay attention to the possibility of errors or omissions in the code. There is a disclaimer.
 - When the code runs, you may have to wait longer than you expected. In this case, there may be a problem with the OpenWeather system, but the API data collection may have taken a long time due to the large number of coordinates. In this case, NEVER run the code again and again. Just wait. You can ask questions if you think there is a problem.
 - Your code has nothing to do with working and I have nothing to do with OpenWeather. We only use their services.
+
 - There is no information on the use and evolution of the system and its monetisation. Firstly, this is not the purpose of the code. Moreover, you need to investigate this issue according to the type of API used.
